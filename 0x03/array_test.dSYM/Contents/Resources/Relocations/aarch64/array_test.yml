@@ -2,13 +2,13 @@
 triple:          'arm64-apple-darwin'
 binary-path:     '/Users/jaemin/study/basic-algo-lecture/0x03/array_test'
 relocations:
-  - { offset: 0x16022, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x61A56, symBinAddr: 0x100008000, symSize: 0x0 }
-  - { offset: 0x16243, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_array_test.cpp, symObjAddr: 0x2FC, symBinAddr: 0x10000095C, symSize: 0x14 }
-  - { offset: 0x1625A, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x2C0, symBinAddr: 0x100000920, symSize: 0x3C }
-  - { offset: 0x16278, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x264, symBinAddr: 0x100000904, symSize: 0x1C }
-  - { offset: 0x16296, size: 0x8, addend: 0x0, symName: __Z10erase_testv, symObjAddr: 0x18C, symBinAddr: 0x10000082C, symSize: 0xD8 }
-  - { offset: 0x162DF, size: 0x8, addend: 0x0, symName: __Z11insert_testv, symObjAddr: 0xC0, symBinAddr: 0x100000760, symSize: 0xCC }
-  - { offset: 0x1631C, size: 0x8, addend: 0x0, symName: __Z8printArrPiRi, symObjAddr: 0x3C, symBinAddr: 0x1000006DC, symSize: 0x84 }
-  - { offset: 0x1637A, size: 0x8, addend: 0x0, symName: __Z5eraseiPiRi, symObjAddr: 0x20, symBinAddr: 0x1000006C0, symSize: 0x1C }
-  - { offset: 0x163C6, size: 0x8, addend: 0x0, symName: __Z6insertiiPiRi, symObjAddr: 0x0, symBinAddr: 0x1000006A0, symSize: 0x20 }
+  - { offset: 0x16022, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x61C6E, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x16243, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_array_test.cpp, symObjAddr: 0x43C, symBinAddr: 0x100000A98, symSize: 0x14 }
+  - { offset: 0x1625A, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x400, symBinAddr: 0x100000A5C, symSize: 0x3C }
+  - { offset: 0x16278, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x3A0, symBinAddr: 0x100000A40, symSize: 0x1C }
+  - { offset: 0x16296, size: 0x8, addend: 0x0, symName: __Z10erase_testv, symObjAddr: 0x2C8, symBinAddr: 0x100000968, symSize: 0xD8 }
+  - { offset: 0x162DF, size: 0x8, addend: 0x0, symName: __Z11insert_testv, symObjAddr: 0x1FC, symBinAddr: 0x10000089C, symSize: 0xCC }
+  - { offset: 0x1631C, size: 0x8, addend: 0x0, symName: __Z8printArrPiRi, symObjAddr: 0x178, symBinAddr: 0x100000818, symSize: 0x84 }
+  - { offset: 0x1637A, size: 0x8, addend: 0x0, symName: __Z5eraseiPiRi, symObjAddr: 0xC8, symBinAddr: 0x100000768, symSize: 0xB0 }
+  - { offset: 0x163E7, size: 0x8, addend: 0x0, symName: __Z6insertiiPiRi, symObjAddr: 0x0, symBinAddr: 0x1000006A0, symSize: 0xC8 }
 ...
