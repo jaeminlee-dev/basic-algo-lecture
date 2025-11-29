@@ -6,6 +6,7 @@ int dat[MX], pre[MX], nxt[MX];
 int unused = 1;
 
 void insert(int addr, int num){
+  
 
 }
 

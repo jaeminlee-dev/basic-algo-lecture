@@ -1,0 +1,20 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jaemin/study/basic-algo-lecture/0x04/linked_list_test'
+relocations:
+  - { offset: 0x160E7, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x622E9, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offset: 0x161E4, size: 0x8, addend: 0x0, symName: __ZL2MX, symObjAddr: 0x41C, symBinAddr: 0x100000C98, symSize: 0x0 }
+  - { offset: 0x16209, size: 0x8, addend: 0x0, symName: _dat, symObjAddr: 0x622EC, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offset: 0x1621F, size: 0x8, addend: 0x0, symName: _pre, symObjAddr: 0x432C00, symBinAddr: 0x1003D891C, symSize: 0x0 }
+  - { offset: 0x16235, size: 0x8, addend: 0x0, symName: _nxt, symObjAddr: 0x803514, symBinAddr: 0x1007A9230, symSize: 0x0 }
+  - { offset: 0x1624B, size: 0x8, addend: 0x0, symName: _unused, symObjAddr: 0x420, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x1637F, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_linked_list_test.cpp, symObjAddr: 0x4A8, symBinAddr: 0x100000C38, symSize: 0x14 }
+  - { offset: 0x16396, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x46C, symBinAddr: 0x100000BFC, symSize: 0x3C }
+  - { offset: 0x163AD, size: 0x8, addend: 0x0, symName: __ZSt9__fill_a1IPiiEvT_S1_RKT0_, symObjAddr: 0x3BC, symBinAddr: 0x100000B9C, symSize: 0x60 }
+  - { offset: 0x164BB, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x2F8, symBinAddr: 0x100000AD8, symSize: 0xC4 }
+  - { offset: 0x1659F, size: 0x8, addend: 0x0, symName: __Z10erase_testv, symObjAddr: 0x2A0, symBinAddr: 0x100000A80, symSize: 0x58 }
+  - { offset: 0x165BE, size: 0x8, addend: 0x0, symName: __Z11insert_testv, symObjAddr: 0x228, symBinAddr: 0x100000A08, symSize: 0x78 }
+  - { offset: 0x165DD, size: 0x8, addend: 0x0, symName: __Z8traversev, symObjAddr: 0x1A4, symBinAddr: 0x100000984, symSize: 0x84 }
+  - { offset: 0x1660C, size: 0x8, addend: 0x0, symName: __Z5erasei, symObjAddr: 0x100, symBinAddr: 0x1000008E0, symSize: 0xA4 }
+  - { offset: 0x1663C, size: 0x8, addend: 0x0, symName: __Z6insertii, symObjAddr: 0x0, symBinAddr: 0x1000007E0, symSize: 0x100 }
+...
